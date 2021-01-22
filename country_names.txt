@@ -3,3 +3,6 @@ Italy
 Belgium
 France
 Norway
+Sweden
+Germany
+San Marino
